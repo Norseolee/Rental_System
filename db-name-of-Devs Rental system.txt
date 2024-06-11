@@ -1,1 +1,5 @@
 DATABASE NAME--->>sourcecodester_newrent
+admin
+
+admin@admin.com
+admin
